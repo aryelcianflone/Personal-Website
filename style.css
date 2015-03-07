@@ -17,7 +17,8 @@ html, body {
 }
 
 .frameOneContent {
-
+	padding-top: 340px;
+	padding-left: 5%;
 } 
 
 .frameOneText {
