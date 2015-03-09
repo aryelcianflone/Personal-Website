@@ -92,6 +92,15 @@ and (max-device-width : 667px) {
 	.nav a.icon-twitter {
 		margin: 25px 25px 10px 0px;
 	}
+
+	.frameOne .frameOneScroll {
+		font-size: 40px;
+		bottom: 30px;
+	}
+	.frameOne .chevron-down {
+		width: 40px;
+		height: 40px;
+	}
 }
 
 
